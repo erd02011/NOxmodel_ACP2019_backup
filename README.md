@@ -1,4 +1,6 @@
 # NOxmodel_ACP2019
+Published Discussion paper can be found here: https://doi.org/10.5194/acp-2019-538 
+
 
 Notes on NOxmultibox_forestmodel:
 The code is written for MATLAB. It should be run and initiated by running the script NOxmultibox_forestmodel. The following describes the script and functions included. Further documentation can be found at the beginning of each script or function. 
