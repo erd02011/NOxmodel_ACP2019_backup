@@ -29,7 +29,7 @@ dt = 2; % timestep in seconds
 days = 3; %days to run over. (1 day takes ~ 10 min to run at dt = 2)
 hours = 24*days;
 minutes = hours*60;
-nsteps = 10;%minutes*60*(1/dt)+1;
+nsteps = minutes*60*(1/dt)+1;
 nboxes=8;
 ncanopy = 5; %number of boxes below the canopy
 nus = 1; % number of boxes in the understory
